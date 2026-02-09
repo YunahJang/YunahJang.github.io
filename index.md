@@ -38,35 +38,35 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
 ### Publication
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
-  <a href="">IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance</a>
-  </div>
-  <b>Yunah Jang</b>, Kang-il Lee, Hyunkyung Bae, Hwanhee Lee, Kyomin Jung<br>
-  NAACL 2024
-</p>
-<p style="margin:0">
-  <div style="display:flex; justify-content:space-between">
-  <a href="">Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time</a>
+  <a href="https://arxiv.org/abs/2404.11916">Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time</a>
   </div>
   Nakyeong Yang, Jiwon Moon, Junseok Kim, <b>Yunah Jang</b>, Kyomin Jung<br>
   CIKM 2025
 </p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
-  <a href="">MP2D: An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs</a>
+  <a href="https://arxiv.org/abs/2403.05814">MP2D: An Automated Topic Shift Dialogue Generation Framework Leveraging Knowledge Graphs</a>
   </div>
   Yerin Hwang, Yongil Kim, <b>Yunah Jang</b>, Jeesoo Bang, Hyunkyung Bae, Kyomin Jung<br>
   EMNLP 2024
 </p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
-  <a href="">Task-specific Compression for Multi-task Language Models using Attribution-based Pruning</a>
+  <a href="https://arxiv.org/abs/2311.09820">IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance</a>
+  </div>
+  <b>Yunah Jang</b>, Kang-il Lee, Hyunkyung Bae, Hwanhee Lee, Kyomin Jung<br>
+  NAACL 2024
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2205.04157">Task-specific Compression for Multi-task Language Models using Attribution-based Pruning</a>
   </div>
   Nakyeong Yang, <b>Yunah Jang</b>, Hwanhee Lee, Seohyeong Jeong, Kyomin Jung<br>
   EACL 2023 (findings)
 </p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
-  <a href="">Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pre-trained Language Model</a>
+  <a href="https://aclanthology.org/2022.dialdoc-1.15/">Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pre-trained Language Model</a>
   </div>
   <b>Yunah Jang</b>, Dongryeol Lee, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, Kyomin Jun<br>
   DialDoc 2022 (ACL 2022 Workshop)

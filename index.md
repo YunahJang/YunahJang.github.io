@@ -100,7 +100,7 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
 <p>
   <div style="display:flex; justify-content:space-between">
   <a href="https://www.mpi-sp.org//">
-    Max-Planck Institute for Security and Privacy (MPI-SP)
+    Max-Planck Institute for Security and Privacy (MPI-SP)</a>
     <span style>Aug 2025–Oct 2025</span>
   </div>
   Research intern

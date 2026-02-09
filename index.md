@@ -1,6 +1,6 @@
 <div style="height:15px;"></div>
 <p>
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Seoul National University, 
+I am a Ph.D. candidate in the Dept. of Electrical and Computer Engineering at Seoul National University, 
 under the supervision of <a href="https://milab.snu.ac.kr/">Prof. Kyomin Jung</a>, 
 Machine Intelligence Lab (MILAB).
 </p>

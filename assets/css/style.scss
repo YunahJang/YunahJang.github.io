@@ -2,7 +2,8 @@
 ---
 
 @import "jekyll-theme-minimal";
-/* ===== Sidebar social icons ===== */
+
+/* ===== Social icons: gray → color on hover ===== */
 
 .social-links {
   margin-top: 10px;
@@ -10,11 +11,18 @@
 
 .social-links a {
   margin-right: 10px;
-  font-size: 1.2em;
-  color: #333;
   text-decoration: none;
 }
 
-.social-links a:hover {
-  color: #0366d6;
+/* 기본은 회색 */
+.social-links i {
+  color: #666;
+  font-size: 1.2em;
+  transition: color 0.2s ease;
 }
+
+/* Hover 시만 컬러 */
+.social-links a:hover .github-icon { color: #24292f; }
+.social-links a:hover .linkedin-icon { color: #0A66C2; }
+.social-links a:hover .scholar-icon { color: #4285F4; }
+.social-links a:hover .cv-icon { color: #D32F2F; }

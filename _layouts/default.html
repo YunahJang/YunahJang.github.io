@@ -25,34 +25,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github_username or site.linkedin_username or site.google_scholar_id or site.cv_url %}
         <p class="social-links">
-          {% if site.github_username %}
-            <a href="https://github.com/{{ site.github_username }}" target="_blank" aria-label="GitHub">
-              <i class="fab fa-github"></i>
-            </a>
-          {% endif %}
-
-          {% if site.linkedin_username %}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/" target="_blank" aria-label="LinkedIn">
-              <i class="fab fa-linkedin"></i>
-            </a>
-          {% endif %}
-
-          {% if site.google_scholar_id %}
-            <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}" target="_blank" aria-label="Google Scholar">
-              <i class="fas fa-graduation-cap"></i>
-            </a>
-          {% endif %}
-
-          {% if site.cv_url %}
-            <a href="{{ site.cv_url | relative_url }}" target="_blank" aria-label="CV">
-              <i class="fas fa-file-pdf"></i>
-            </a>
-          {% endif %}
+          <a href="https://github.com/{{ site.github_username }}" target="_blank" aria-label="GitHub">
+            <i class="fa-brands fa-github github-icon"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/" target="_blank" aria-label="LinkedIn">
+            <i class="fa-brands fa-linkedin linkedin-icon"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}" target="_blank" aria-label="Google Scholar">
+            <i class="fa-solid fa-graduation-cap scholar-icon"></i>
+          </a>
+          <a href="{{ site.cv_url | relative_url }}" target="_blank" aria-label="CV">
+            <i class="fa-solid fa-file-pdf cv-icon"></i>
+          </a>
         </p>
-        {% endif %}
-
 
 
         {% if site.github.is_project_page %}

@@ -2,3 +2,19 @@
 ---
 
 @import "jekyll-theme-minimal";
+/* ===== Sidebar social icons ===== */
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  margin-right: 10px;
+  font-size: 1.2em;
+  color: #333;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: #0366d6;
+}

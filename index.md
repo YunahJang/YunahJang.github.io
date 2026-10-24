@@ -6,10 +6,14 @@ Machine Intelligence Lab (MILAB).
 </p>
 
 <p>
-My research lies at the intersection of conversational search and retrieval-augmented generation (RAG). 
-I build methods that help models understand multi-turn user intent, retrieve the right evidence, and produce grounded answers under realistic conditions. 
-A key theme in my work is robustness and adaptivity—designing RAG systems that can remain reliable even when retrieval signals are noisy, incomplete, or shifting. 
-Going forward, I’m expanding this line of research toward agentic RAG and tool-augmented LLMs, where models can plan, decide when and what to retrieve, and leverage external tools to solve open-ended tasks more effectively.
+My research focuses on building information-seeking systems that truly understand their users. 
+I started at the intersection of conversational search and retrieval-augmented generation (RAG), developing methods that help models interpret multi-turn user intent, retrieve the right evidence, and produce grounded answers under realistic conditions. 
+In particular, I have studied robustness: making these systems reliable even when the way users ask varies or the retrieval signals are noisy.
+</p>
+
+<p>
+More recently, I've been extending this line of work toward personalization with user memory. 
+As LLM assistants and agents accumulate knowledge about their users over long-term interactions, I study how they can remember what matters, decide when that memory is actually relevant, and use it to provide responses that are genuinely helpful for each individual, without over- or misusing what they know.
 </p>
 
 <div style="height:15px;"></div>

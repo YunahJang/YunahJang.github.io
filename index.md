@@ -35,7 +35,50 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
 <div style="height:15px;"></div>
 ---
 <div style="height:15px;"></div>
+### Internship
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.mpi-sws.org/">
+    Max-Planck Institute for Software Systems (MPI-SWS)</a>
+    <span style>May 2026–Jul 2026</span>
+  </div>
+  Research intern
+</p>
+
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.mpi-sp.org/">
+    Max-Planck Institute for Security and Privacy (MPI-SP)</a>
+    <span style>Aug 2025–Oct 2025</span>
+  </div>
+  Research intern
+</p>
+
+<div style="height:15px;"></div>
+---
+<div style="height:15px;"></div>
 ### Publication
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2604.10745">How You Ask Matters! Adaptive RAG Robustness to Query Variations</a>
+  </div>
+  <b>Yunah Jang</b>, Megha Sundriyal, Kyomin Jung, Meeyoung Cha<br>
+  EMNLP 2026 · <a href="https://yunahjang.github.io/howyouaskmatters/">[Project Page]</a> <a href="https://github.com/YunahJang/AdaptiveRAG-Robustness">[Code]</a>
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2609.14646">CompCQR: Compositional Query Generation for Training-Free Conversational Search</a>
+  </div>
+  <b>Yunah Jang</b>, Kang-il Lee, Joongbo Shin, Kyomin Jung<br>
+  EMNLP 2026 (findings) · <a href="https://yunahjang.github.io/compcqr/">[Project Page]</a> <a href="https://github.com/YunahJang/CompCQR">[Code]</a>
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2609.09664">PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations</a>
+  </div>
+  Hyojeong Yu, Hyukhun Koh, Minsung Kim, <b>Yunah Jang</b>, Kyomin Jung<br>
+  EMNLP 2026
+</p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
   <a href="https://arxiv.org/abs/2404.11916">Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time</a>
@@ -68,8 +111,32 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
   <div style="display:flex; justify-content:space-between">
   <a href="https://aclanthology.org/2022.dialdoc-1.15/">Improving Multiple Documents Grounded Goal-Oriented Dialog Systems via Diverse Knowledge Enhanced Pre-trained Language Model</a>
   </div>
-  <b>Yunah Jang</b>, Dongryeol Lee, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, Kyomin Jun<br>
+  <b>Yunah Jang</b>, Dongryeol Lee, Hyung Joo Park, Taegwan Kang, Hwanhee Lee, Hyunkyung Bae, Kyomin Jung<br>
   DialDoc 2022 (ACL 2022 Workshop)
+</p>
+
+<div style="height:15px;"></div>
+#### Domestic Conferences
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577913">Evaluating Source Bias in Adaptive Retrieval-Augmented Generation</a>
+  </div>
+  <b>Yunah Jang</b>, Kyomin Jung<br>
+  KSC 2025
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318356">Analyzing Role Selection Bias in Role-playing LLMs</a>
+  </div>
+  <b>Yunah Jang</b>, Kyomin Jung<br>
+  KCC 2025
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488258">Enhancing Engagement in Persona-Grounded Dialogue Systems via Fine-grained Response Generation and Ranking</a>
+  </div>
+  <b>Yunah Jang</b>, Yoonhyung Lee, Sungdong Kim, Hwaran Lee, Kyomin Jung<br>
+  KCC 2023
 </p>
 ---
 <div style="height:15px;"></div>
@@ -91,17 +158,4 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
     <span style>Aug 2025–Oct 2025</span>
   </div>
   Advised by Dir. Meeyoung Cha
-</p>
-
-<div style="height:15px;"></div>
----
-<div style="height:15px;"></div>
-### Work Experience
-<p>
-  <div style="display:flex; justify-content:space-between">
-  <a href="https://www.mpi-sp.org//">
-    Max-Planck Institute for Security and Privacy (MPI-SP)</a>
-    <span style>Aug 2025–Oct 2025</span>
-  </div>
-  Research intern
 </p>

@@ -98,7 +98,7 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
   <a href="https://arxiv.org/abs/2311.09820">IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance</a>
   </div>
   <b>Yunah Jang</b>, Kang-il Lee, Hyunkyung Bae, Hwanhee Lee, Kyomin Jung<br>
-  NAACL 2024
+  NAACL 2024 · <a href="https://github.com/YunahJang/IterCQR">[Code]</a>
 </p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">

@@ -81,6 +81,13 @@ Going forward, I’m expanding this line of research toward agentic RAG and tool
 </p>
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2609.19244">Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses</a>
+  </div>
+  Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, <b>Yunah Jang</b>, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das<br>
+  arXiv preprint 2026
+</p>
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
   <a href="https://arxiv.org/abs/2404.11916">Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time</a>
   </div>
   Nakyeong Yang, Jiwon Moon, Junseok Kim, <b>Yunah Jang</b>, Kyomin Jung<br>
